@@ -1,4 +1,4 @@
-package com.collabera;
+package com.example.test;
 
 public class Main {
 

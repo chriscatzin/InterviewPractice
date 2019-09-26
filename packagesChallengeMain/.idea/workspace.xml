@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="packagesChallenge:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a311ea67-1917-4938-a212-ebf743c83375" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/packagesChallenge_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collabera/Main.java" beforeDir="false" />
+    <list default="true" id="e019c6c5-4e84-4327-a139-4f8dbe7448de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../packagesChallenge/.idea/artifacts/packagesChallenge_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/PackagesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaFiles/PackagesChallenge/src/com/collabera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packagesChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../packagesChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packagesChallenge/src/com/collabera/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +29,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/collabera/myLibrary/Series.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/src/com/collabera/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/collabera/myLibrary/Series.java" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/packagesChallenge.xml" />
       </list>
     </option>
   </component>
@@ -65,36 +63,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="packagesChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="packagesChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="packagesChallengeMain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packagesChallengeMain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="packagesChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="packagesChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="packagesChallengeMain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packagesChallengeMain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="packagesChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="packagesChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="packagesChallengeMain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packagesChallengeMain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="myLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -112,8 +108,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.collabera.Main" />
-      <module name="packagesChallenge" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test.Main" />
+      <module name="packagesChallengeMain" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -127,16 +123,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a311ea67-1917-4938-a212-ebf743c83375" name="Default Changelist" comment="" />
-      <created>1569474147917</created>
+      <changelist id="e019c6c5-4e84-4327-a139-4f8dbe7448de" name="Default Changelist" comment="" />
+      <created>1569477063694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569474147917</updated>
+      <updated>1569477063694</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="28" width="720" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -148,7 +145,6 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -167,17 +163,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/collabera/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collabera/myLibrary/Series.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -187,12 +176,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>packagesChallenge:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -244,6 +231,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>packagesChallenge</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
