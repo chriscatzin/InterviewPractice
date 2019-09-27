@@ -1,5 +1,10 @@
 package com.collabera;
 
+/******************************
+ * Christopher Catzin
+ * September 26, 2019
+ ******************************/
+
 import java.util.Scanner;
 
 public class main {
